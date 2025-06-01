@@ -13,7 +13,7 @@ void withdraw(int amount) {
         cout << "Current balance" << current_balance << endl;
     }
     else if (amount > current_balance) {
-        cout << "Insufficient funds" << endl;
+        cout << "Insuffivcffffffcient funds" << endl;
     }
 
 }
